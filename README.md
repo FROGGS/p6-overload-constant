@@ -2,7 +2,7 @@
 
 It is meant to work a bit like P5's overload::constant[1], though it is kind of pre-alpha here.
 
-# USAGE
+## USAGE
 
 ```perl6
     sub integer { "i$^a" }
